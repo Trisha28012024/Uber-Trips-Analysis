@@ -1,6 +1,6 @@
  <h1>Uber Trip Analysis - Exploratory Data Analysis (EDA)</h1>
 
-  <p><strong>Author:</strong> Khan Faisal</p>
+  <p><strong>Author:</strong> Trisha Danole</p>
 
   <p>
     This project presents an exploratory data analysis (EDA) of Uber trip data. The analysis aims to uncover patterns in ride frequency, time-based trends, and geographic insights to help understand user behavior, trip distributions, and potential business opportunities.
